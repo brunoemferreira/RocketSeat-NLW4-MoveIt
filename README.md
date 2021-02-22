@@ -33,7 +33,7 @@ Código para o desafio :
 <p align="center">
   <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#cronograma">Cronograma do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias e Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -47,3 +47,12 @@ Descrição do que é e para que serve o projeto que foi desenvolvido.
 <div align="center">
    <img src="./assets/cronograma.png">
 </div>
+
+
+<h2 id="tecnologias"> 🧰 Tecnologias e Bibliotecas</h2>
+
+* [HTML](https://www.w3schools.com/html/) 
+* [CSS](https://www.w3schools.com/css/) 
+* [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+* [TypeScript](https://www.typescriptlang.org/) - Linguagem baseada em JavaScript que adicionar definições de tipo estático.
+* [ReactJS](https://pt-br.reactjs.org/) - Biblioteca JavaScript para criação de Interfaces.   
