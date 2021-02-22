@@ -23,8 +23,8 @@ Código para o desafio :
     <img alt="Made by Bruno Eduardo" src="https://img.shields.io/badge/made%20by-Bruno Eduardo-%2304D361">
   </a>
 
-  <img src="https://img.shields.io/github/repo-size/brunoemferreira/Markdown_Library" alt="badge"/>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/RocketSeat-NLW4-MoveIt">
+  <img src="https://img.shields.io/github/repo-size/brunoemferreira/Markdown_Library?color=%2304D361" alt="badge"/>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/RocketSeat-NLW4-MoveIt?color=%2304D361">
 
 </p>
 
